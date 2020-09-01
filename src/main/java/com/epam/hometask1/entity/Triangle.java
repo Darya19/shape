@@ -1,9 +1,12 @@
-package com.epam.hometask1.entity.impl;
+package com.epam.hometask1.entity;
 
-import com.epam.hometask1.entity.Point;
+import com.epam.hometask1.exception.ProjectException;
 import com.epam.hometask1.observer.Observable;
 import com.epam.hometask1.observer.Observer;
 import com.epam.hometask1.util.IdCreator;
+import org.apache.logging.log4j.Level;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.util.ArrayList;
 import java.util.EventObject;
@@ -17,11 +20,14 @@ public class Triangle implements Observable {
     private Point c;
     private List<Observer> observers = new ArrayList<>();
 
+    private static Logger logger = LogManager.getLogger();
+
     public Triangle(Point a, Point b, Point c) {
         this.id = IdCreator.createId();
         this.a = a;
         this.b = b;
         this.c = c;
+        logger.log(Level.DEBUG, "Triangle was created");
     }
 
     public void setId(int id) {
@@ -37,27 +43,37 @@ public class Triangle implements Observable {
         return a;
     }
 
-    public void setA(Point a) {
-        this.a = a;
-        notifyObservers();
+    public void setA(Point a) throws ProjectException {
+        if (a == null) {
+            throw new ProjectException("point is null");
+        } else {
+            this.a = a;
+            notifyObservers();
+        }
     }
 
     public Point getB() {
         return b;
     }
 
-    public void setB(Point b) {
+    public void setB(Point b) throws ProjectException {
+        if (a == null) {
+            throw new ProjectException("point is null");
+        } else {
         this.b = b;
-        notifyObservers();
+        notifyObservers();}
     }
 
     public Point getC() {
         return c;
     }
 
-    public void setC(Point c) {
+    public void setC(Point c) throws ProjectException {
+        if (a == null) {
+            throw new ProjectException("point is null");
+        } else {
         this.c = c;
-        notifyObservers();
+        notifyObservers();}
     }
 
     @Override

@@ -1,18 +1,19 @@
 package com.epam.hometask1.observer;
 
-import com.epam.hometask1.entity.impl.Triangle;
+import com.epam.hometask1.entity.Triangle;
+import org.apache.logging.log4j.Level;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.util.EventObject;
 
 public class TriangleEvent extends EventObject {
-    /**
-     * Constructs a prototypical Event.
-     *
-     * @param source The object on which the Event initially occurred.
-     * @throws IllegalArgumentException if source is null.
-     */
+
+    private static Logger logger = LogManager.getLogger();
+
     public TriangleEvent(Object source) {
         super(source);
+        logger.log(Level.DEBUG, "TriangleEvent was created");
     }
 
     public Triangle getSource(){

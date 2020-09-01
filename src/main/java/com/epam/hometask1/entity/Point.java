@@ -1,13 +1,22 @@
 package com.epam.hometask1.entity;
 
+import org.apache.logging.log4j.Level;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 public class Point {
 
     private double x;
     private double y;
 
+    private static Logger logger = LogManager.getLogger();
+
+
     public Point(double x, double y) {
         this.x = x;
         this.y = y;
+
+        logger.log(Level.DEBUG, "point was created");
     }
 
     public double getX() {

@@ -9,7 +9,7 @@ public class PointCreator {
     CoordinateValidator validator = new CoordinateValidator();
 
     public Point createPoint(double x, double y) throws ProjectException {
-        if(validator.validateCoordinate(x) && validator.validateCoordinate(y)){
+        if(validator.isCoordinateValid(x) && validator.isCoordinateValid(y)){
         return new Point(x, y);}
         else {throw new ProjectException("invalid input data");}
     }

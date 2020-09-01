@@ -6,5 +6,5 @@ public enum  TriangleType {
     RIGHT, //РЯМОУГОЛЬНЫЙ
     OBTUSE, // ТУПОУГОЛЬНЫЙ
     ACUTE,//СТРОУГОЛЬНЫЙ
-    NONTRIANGLE;
+    NOTTRIANGLE;
 }

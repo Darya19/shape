@@ -1,15 +1,22 @@
 package com.epam.hometask1.entity;
 
+import org.apache.logging.log4j.Level;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 public class TriangleParameters {
 
     private double square;
     private double perimeter;
     private TriangleType type;
 
+    private static Logger logger = LogManager.getLogger();
+
     public TriangleParameters(double square, double perimeter, TriangleType type) {
         this.square = square;
         this.perimeter = perimeter;
         this.type = type;
+        logger.log(Level.DEBUG, "TriangleParameters object was created");
     }
 
     public double getSquare() {

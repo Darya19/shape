@@ -1,13 +1,18 @@
 package com.epam.hometask1.service.impl;
 
-import com.epam.hometask1.entity.impl.Triangle;
+import com.epam.hometask1.entity.Triangle;
 import com.epam.hometask1.entity.TriangleType;
 import com.epam.hometask1.service.ShapeService;
+import org.apache.logging.log4j.Level;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class TriangleService implements ShapeService<Triangle> {
+
+    private static Logger logger = LogManager.getLogger();
 
     @Override
     public double calculateSquare(Triangle triangle) {
@@ -18,6 +23,7 @@ public class TriangleService implements ShapeService<Triangle> {
         double x3 = triangle.getC().getX();
         double y3 = triangle.getC().getY();
         double square = Math.abs((x2 - x1) * (y3 - y1) - (x3 - x1) * (y2 - y1)) / 2;
+        logger.log(Level.INFO, "square was calculated " + square);
         return square;
     }
 
@@ -32,6 +38,7 @@ public class TriangleService implements ShapeService<Triangle> {
         double perimeter = Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2))
                 + Math.sqrt(Math.pow(x3 - x1, 2) + Math.pow(y3 - y1, 2))
                 + Math.sqrt(Math.pow(x3 - x2, 2) + Math.pow(y3 - y2, 2));
+        logger.log(Level.INFO, "perimeter was calculated " + perimeter);
         return perimeter;
     }
 
@@ -46,23 +53,29 @@ public class TriangleService implements ShapeService<Triangle> {
         double ac = Math.sqrt(Math.pow(x3 - x1, 2) + Math.pow(y3 - y1, 2));
         double bc = Math.sqrt(Math.pow(x3 - x2, 2) + Math.pow(y3 - y2, 2));
         if (ab == ac && ab == bc && ac == bc) {
+            logger.log(Level.INFO, "triangle type is " + TriangleType.EQUILATERAL);
             return TriangleType.EQUILATERAL;
         }
         if (ab == ac || ab == bc || ac == bc) {
+            logger.log(Level.INFO, "triangle type is " + TriangleType.ISOSCELES);
             return TriangleType.ISOSCELES;
         }
         List<Double> sides = compareSides(ab, ac, bc);
         if (Math.pow(sides.get(0), 2) == (Math.pow(sides.get(1), 2) + Math.pow(sides.get(2), 2))) {
+            logger.log(Level.INFO, "triangle type is " + TriangleType.RIGHT);
             return TriangleType.RIGHT;
         }
         if (Math.pow(sides.get(0), 2) < (Math.pow(sides.get(1), 2) + Math.pow(sides.get(2), 2))) {
+            logger.log(Level.INFO, "triangle type is " + TriangleType.ACUTE);
             return TriangleType.ACUTE;
         }
 
         if (Math.pow(sides.get(0), 2) > (Math.pow(sides.get(1), 2) + Math.pow(sides.get(2), 2))) {
+            logger.log(Level.INFO, "triangle type is " + TriangleType.OBTUSE);
             return TriangleType.OBTUSE;
         }
-        return TriangleType.NONTRIANGLE;
+        logger.log(Level.INFO, "triangle type is " + TriangleType.NOTTRIANGLE);
+        return TriangleType.NOTTRIANGLE;
     }
 
 

@@ -1,0 +1,779 @@
+2020-09-01 01:09:58 [main] INFO  com.epam.hometask1.parser.CoordinateParser- file's lines were parsed
+2020-09-01 01:09:58 [main] INFO  com.epam.hometask1.parser.CoordinateParser- file's lines were parsed
+2020-09-01 01:12:28 [main] INFO  com.epam.hometask1.parser.CoordinateParser- file's lines were parsed
+2020-09-01 01:12:28 [main] INFO  com.epam.hometask1.parser.CoordinateParser- file's lines were parsed
+2020-09-01 01:15:33 [main] INFO  com.epam.hometask1.parser.CoordinateParser- file's lines were parsed
+2020-09-01 01:15:33 [main] INFO  com.epam.hometask1.parser.CoordinateParser- file's lines were parsed
+2020-09-01 01:15:40 [main] INFO  com.epam.hometask1.parser.CoordinateParser- file's lines were parsed
+2020-09-01 01:15:40 [main] INFO  com.epam.hometask1.parser.CoordinateParser- file's lines were parsed
+2020-09-01 01:17:18 [main] INFO  com.epam.hometask1.parser.CoordinateParser- file's lines were parsed
+2020-09-01 01:17:18 [main] INFO  com.epam.hometask1.parser.CoordinateParser- file's lines were parsed
+2020-09-01 01:19:56 [main] INFO  com.epam.hometask1.parser.CoordinateParser- file's lines were parsed
+2020-09-01 01:23:45 [main] INFO  com.epam.hometask1.parser.CoordinateParser- file's lines were parsed
+2020-09-01 01:25:58 [main] INFO  com.epam.hometask1.parser.CoordinateParser- file's lines were parsed
+2020-09-01 01:25:58 [main] INFO  com.epam.hometask1.parser.CoordinateParser- file's lines were parsed
+2020-09-01 01:47:22 [main] INFO  com.epam.hometask1.reader.ReaderFromFile- file was read
+2020-09-01 01:49:52 [main] INFO  com.epam.hometask1.reader.ReaderFromFile- file was read
+2020-09-01 01:49:52 [main] INFO  com.epam.hometask1.reader.ReaderFromFile- file wasn't found, was used default file
+2020-09-01 01:49:52 [main] INFO  com.epam.hometask1.reader.ReaderFromFile- file was read
+2020-09-01 01:49:52 [main] INFO  com.epam.hometask1.reader.ReaderFromFile- file was read
+2020-09-01 01:53:14 [main] INFO  com.epam.hometask1.reader.ReaderFromFile- file was read
+2020-09-01 01:53:14 [main] INFO  com.epam.hometask1.reader.ReaderFromFile- file wasn't found, was used default file
+2020-09-01 01:53:14 [main] INFO  com.epam.hometask1.reader.ReaderFromFile- file was read
+2020-09-01 01:53:14 [main] INFO  com.epam.hometask1.reader.ReaderFromFile- file was read
+2020-09-01 01:54:25 [main] INFO  com.epam.hometask1.reader.ReaderFromFile- file was read
+2020-09-01 01:54:44 [main] INFO  com.epam.hometask1.reader.ReaderFromFile- file wasn't found, was used default file
+2020-09-01 01:54:44 [main] INFO  com.epam.hometask1.reader.ReaderFromFile- file was read
+2020-09-01 01:54:48 [main] INFO  com.epam.hometask1.reader.ReaderFromFile- file was read
+2020-09-01 01:56:54 [main] INFO  com.epam.hometask1.reader.ReaderFromFile- file was read
+2020-09-01 02:09:33 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:09:33 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:09:33 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:09:33 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:09:33 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:09:33 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:10:34 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:10:34 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:10:34 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:10:34 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:10:34 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:10:34 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:11:44 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:11:44 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:11:44 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:12:06 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:12:06 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:12:06 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:12:17 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:12:17 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:12:17 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:12:29 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:12:29 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:12:29 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:12:40 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:12:40 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:12:40 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:13:46 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:13:46 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:13:46 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:16:25 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:16:25 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:16:25 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:16:42 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:16:42 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:16:42 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:18:50 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:18:50 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:18:50 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:21:43 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:21:43 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:21:43 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:23:16 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:23:16 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:23:16 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:23:37 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:23:37 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:23:37 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:23:37 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:23:37 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:23:37 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:24:44 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:24:44 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:24:44 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:25:12 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:25:12 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:25:12 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:41:18 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:41:18 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:41:18 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:41:18 [main] INFO  com.epam.hometask1.util.IdCreator- id is1
+2020-09-01 02:41:18 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated270.71284700992675
+2020-09-01 02:41:18 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:41:18 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:41:18 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:41:18 [main] INFO  com.epam.hometask1.util.IdCreator- id is1
+2020-09-01 02:41:18 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated3124.682599999999
+2020-09-01 02:41:18 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:41:18 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:41:18 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:41:18 [main] INFO  com.epam.hometask1.util.IdCreator- id is1
+2020-09-01 02:41:18 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type isACUTE
+2020-09-01 02:44:40 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:44:40 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:44:40 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:44:40 [main] INFO  com.epam.hometask1.util.IdCreator- id is1
+2020-09-01 02:44:40 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 270.71284700992675
+2020-09-01 02:44:40 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:44:40 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:44:40 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:44:40 [main] INFO  com.epam.hometask1.util.IdCreator- id is1
+2020-09-01 02:44:40 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 3124.682599999999
+2020-09-01 02:44:40 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:44:40 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:44:40 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:44:40 [main] INFO  com.epam.hometask1.util.IdCreator- id is1
+2020-09-01 02:44:40 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is ACUTE
+2020-09-01 02:52:42 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 02:52:42 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:19:13 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:19:13 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:19:13 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:19:13 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:19:13 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:19:13 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:19:13 [main] INFO  com.epam.hometask1.util.IdCreator- id is 1
+2020-09-01 03:19:13 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:19:13 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 03:19:13 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:19:13 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:19:13 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 03:19:13 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 03:19:13 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:19:13 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:19:13 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:19:13 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 03:19:13 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:19:13 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:19:13 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:19:13 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:19:13 [main] INFO  com.epam.hometask1.util.IdCreator- id is 1
+2020-09-01 03:19:13 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:19:13 [main] INFO  com.epam.hometask1.util.IdCreator- id is 1
+2020-09-01 03:19:13 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:19:13 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=96.023, y=963.52}Point{x=564.464, y=45.565}Point{x=236.256, y=856.655}
+2020-09-01 03:19:13 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:19:13 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 39333.81802499999
+2020-09-01 03:19:13 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 2081.8610017770825
+2020-09-01 03:19:13 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:19:13 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:19:13 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:19:13 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:19:13 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:19:13 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:19:13 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:19:13 [main] INFO  com.epam.hometask1.util.IdCreator- id is 1
+2020-09-01 03:19:13 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:20:12 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:20:12 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:20:12 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:20:12 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:20:12 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:20:12 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:20:12 [main] INFO  com.epam.hometask1.util.IdCreator- id is 1
+2020-09-01 03:20:12 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:20:12 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 03:20:12 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:20:12 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:20:12 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 03:20:12 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 03:20:12 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:20:12 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:20:12 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:20:12 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 03:20:12 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:20:12 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:20:12 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:20:12 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:20:12 [main] INFO  com.epam.hometask1.util.IdCreator- id is 1
+2020-09-01 03:20:12 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:20:12 [main] INFO  com.epam.hometask1.util.IdCreator- id is 1
+2020-09-01 03:20:12 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:20:12 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=96.023, y=963.52}Point{x=564.464, y=45.565}Point{x=236.256, y=856.655}
+2020-09-01 03:20:12 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:20:12 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 39333.81802499999
+2020-09-01 03:20:12 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 2081.8610017770825
+2020-09-01 03:20:12 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:20:12 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:20:12 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:20:12 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:20:12 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:20:12 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:20:12 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:20:12 [main] INFO  com.epam.hometask1.util.IdCreator- id is 1
+2020-09-01 03:20:12 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:22:36 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:22:36 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:22:36 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:22:36 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:22:36 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:22:36 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:22:36 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 03:22:36 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:22:36 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 03:22:36 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:22:36 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:22:36 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 03:22:36 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 03:22:36 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:22:36 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:22:36 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:22:36 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 03:22:36 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:22:36 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:22:36 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:22:36 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:22:36 [main] INFO  com.epam.hometask1.util.IdCreator- id is 3
+2020-09-01 03:22:36 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:22:36 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 03:22:36 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:22:36 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=96.023, y=963.52}Point{x=564.464, y=45.565}Point{x=236.256, y=856.655}
+2020-09-01 03:22:36 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:22:36 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 39333.81802499999
+2020-09-01 03:22:36 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 2081.8610017770825
+2020-09-01 03:22:36 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:22:36 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:22:36 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:22:36 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:22:36 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:22:36 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:22:36 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:22:36 [main] INFO  com.epam.hometask1.util.IdCreator- id is 5
+2020-09-01 03:22:36 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:27:39 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:27:39 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:27:39 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:27:39 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:27:39 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:27:39 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:27:39 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:28:11 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:11 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:11 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:11 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:11 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:11 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:11 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:28:29 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:29 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:29 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:29 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:29 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:29 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:29 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:28:42 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:42 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:42 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:42 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:42 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:42 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:28:42 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 03:28:42 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:28:42 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 03:28:42 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:28:42 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:28:42 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 03:28:42 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 03:28:42 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:28:42 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:28:42 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:28:42 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 03:28:42 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:28:43 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:28:43 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:28:43 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:28:43 [main] INFO  com.epam.hometask1.util.IdCreator- id is 3
+2020-09-01 03:28:43 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:28:43 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 03:28:43 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:28:43 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=96.023, y=963.52}Point{x=564.464, y=45.565}Point{x=236.256, y=856.655}
+2020-09-01 03:28:43 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:28:43 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 39333.81802499999
+2020-09-01 03:28:43 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 2081.8610017770825
+2020-09-01 03:28:43 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:28:43 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:28:43 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:28:43 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:28:43 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:28:43 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:28:43 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:28:43 [main] INFO  com.epam.hometask1.util.IdCreator- id is 5
+2020-09-01 03:28:43 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:30:49 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:30:49 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:30:49 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:30:49 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:30:49 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:30:49 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:30:49 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 03:30:49 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:30:49 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 03:30:49 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:30:49 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:30:49 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 03:30:49 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 03:30:49 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:30:49 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:30:49 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:30:49 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 03:30:49 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:30:49 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:30:49 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:30:49 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:30:49 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 03:30:49 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:30:49 [main] INFO  com.epam.hometask1.util.IdCreator- id is 8
+2020-09-01 03:30:49 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:30:49 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=96.023, y=963.52}Point{x=564.464, y=45.565}Point{x=236.256, y=856.655}
+2020-09-01 03:30:49 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:30:49 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 39333.81802499999
+2020-09-01 03:30:49 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 2081.8610017770825
+2020-09-01 03:30:49 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:30:49 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:30:49 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:30:49 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:30:49 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:30:49 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:30:49 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:30:49 [main] INFO  com.epam.hometask1.util.IdCreator- id is 16
+2020-09-01 03:30:49 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:31:55 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:31:55 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:31:55 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:31:55 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:31:55 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:31:55 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:31:55 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 03:31:55 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:31:55 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 03:31:55 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:31:55 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:31:55 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 03:31:55 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 03:31:55 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:31:55 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:31:55 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:31:55 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 03:31:55 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:31:55 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:31:55 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:31:55 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:31:55 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 03:31:55 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:31:56 [main] INFO  com.epam.hometask1.util.IdCreator- id is 8
+2020-09-01 03:31:56 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:31:56 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=96.023, y=963.52}Point{x=564.464, y=45.565}Point{x=236.256, y=856.655}
+2020-09-01 03:31:56 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:31:56 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 39333.81802499999
+2020-09-01 03:31:56 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 2081.8610017770825
+2020-09-01 03:31:56 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:31:56 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:31:56 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:31:56 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:31:56 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:31:56 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:31:56 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:31:56 [main] INFO  com.epam.hometask1.util.IdCreator- id is 16
+2020-09-01 03:31:56 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:32:57 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:32:57 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:32:57 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:32:57 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:32:57 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:32:57 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:32:57 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 03:32:57 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:32:57 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 03:32:57 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:32:57 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:32:57 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 03:32:57 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 03:32:57 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:32:57 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:32:57 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:32:57 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 03:32:57 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:32:57 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:32:57 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:32:57 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:32:57 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 03:32:57 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:32:57 [main] INFO  com.epam.hometask1.util.IdCreator- id is 8
+2020-09-01 03:32:57 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:32:57 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=96.023, y=963.52}Point{x=564.464, y=45.565}Point{x=236.256, y=856.655}
+2020-09-01 03:32:57 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:32:57 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 39333.81802499999
+2020-09-01 03:32:57 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 2081.8610017770825
+2020-09-01 03:32:57 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:32:57 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:32:57 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:32:57 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:32:57 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:32:57 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:32:57 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:32:57 [main] INFO  com.epam.hometask1.util.IdCreator- id is 16
+2020-09-01 03:32:57 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:33:37 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:33:37 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:33:37 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:33:37 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:33:37 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:33:37 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:33:37 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 03:33:37 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:33:37 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 03:33:37 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:33:37 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:33:37 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 03:33:37 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 03:33:37 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:33:37 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:33:37 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:33:37 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 03:33:37 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:33:37 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:33:37 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:33:37 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:33:37 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 03:33:37 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:33:37 [main] INFO  com.epam.hometask1.util.IdCreator- id is 8
+2020-09-01 03:33:37 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:33:37 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=96.023, y=963.52}Point{x=564.464, y=45.565}Point{x=236.256, y=856.655}
+2020-09-01 03:33:37 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:33:37 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 39333.81802499999
+2020-09-01 03:33:37 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 2081.8610017770825
+2020-09-01 03:33:37 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:33:37 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:33:37 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:33:37 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:33:37 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:33:37 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:33:37 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:33:37 [main] INFO  com.epam.hometask1.util.IdCreator- id is 16
+2020-09-01 03:33:37 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:38:39 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:38:39 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:38:39 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:38:39 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:38:39 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:38:39 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:38:39 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:39:21 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:40:24 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:40:48 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:41:10 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:41:22 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:46:53 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:46:53 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:46:53 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:46:53 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:46:53 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:46:53 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:46:53 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 03:46:53 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:46:53 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 03:46:53 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:46:53 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:46:53 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 03:46:53 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 03:46:53 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:46:53 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:46:53 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:46:53 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 03:46:53 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:46:53 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:46:53 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:46:53 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:46:53 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 03:46:53 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:46:53 [main] INFO  com.epam.hometask1.util.IdCreator- id is 8
+2020-09-01 03:46:53 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:46:53 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=96.023, y=963.52}Point{x=564.464, y=45.565}Point{x=236.256, y=856.655}
+2020-09-01 03:46:53 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:46:53 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 39333.81802499999
+2020-09-01 03:46:53 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 2081.8610017770825
+2020-09-01 03:46:53 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:46:53 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:46:53 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:46:53 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:46:53 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:46:53 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:46:53 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:46:53 [main] INFO  com.epam.hometask1.util.IdCreator- id is 16
+2020-09-01 03:46:53 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:47:24 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:47:24 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:47:24 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:47:24 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:47:24 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:47:24 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:47:24 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 03:47:24 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:47:24 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 03:47:24 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:47:24 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:47:24 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 03:47:24 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 03:47:24 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:47:24 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:47:24 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:47:24 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 03:47:24 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:47:24 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:47:24 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:47:24 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:47:24 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 03:47:24 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:47:24 [main] INFO  com.epam.hometask1.util.IdCreator- id is 8
+2020-09-01 03:47:24 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:47:24 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=96.023, y=963.52}Point{x=564.464, y=45.565}Point{x=236.256, y=856.655}
+2020-09-01 03:47:24 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:47:24 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 39333.81802499999
+2020-09-01 03:47:24 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 2081.8610017770825
+2020-09-01 03:47:24 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:47:24 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:47:24 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:47:24 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:47:24 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:47:24 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:47:24 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:47:24 [main] INFO  com.epam.hometask1.util.IdCreator- id is 16
+2020-09-01 03:47:24 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:47:32 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:47:32 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:47:32 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:47:32 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:47:32 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:47:32 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:47:32 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 03:47:32 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:47:32 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 03:47:32 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:47:32 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:47:32 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 03:47:32 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 03:47:32 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:47:32 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:47:32 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:47:32 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 03:47:32 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:47:32 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:47:32 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:47:32 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:47:32 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 03:47:32 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:47:32 [main] INFO  com.epam.hometask1.util.IdCreator- id is 8
+2020-09-01 03:47:32 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:47:32 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=96.023, y=963.52}Point{x=564.464, y=45.565}Point{x=236.256, y=856.655}
+2020-09-01 03:47:32 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:47:32 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 39333.81802499999
+2020-09-01 03:47:32 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 2081.8610017770825
+2020-09-01 03:47:32 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:47:32 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:47:32 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:47:32 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:47:32 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:47:32 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:47:32 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:47:32 [main] INFO  com.epam.hometask1.util.IdCreator- id is 16
+2020-09-01 03:47:32 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:50:25 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:50:25 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:50:25 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:50:25 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 03:50:25 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 03:50:25 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:50:25 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:50:25 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 03:50:25 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:50:25 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:50:25 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:50:25 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:50:25 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:50:25 [main] INFO  com.epam.hometask1.util.IdCreator- id is 8
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:50:25 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 03:50:25 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:50:25 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 03:50:25 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 03:50:25 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:50:25 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:50:25 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:50:25 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:50:25 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:50:25 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:50:25 [main] INFO  com.epam.hometask1.util.IdCreator- id is 16
+2020-09-01 03:50:25 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:52:32 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:52:32 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:52:32 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:52:32 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 03:52:32 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:52:32 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 03:52:32 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:52:32 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:52:32 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 03:52:32 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 03:52:32 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:52:32 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:52:32 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:52:32 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 03:52:32 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:52:32 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:52:32 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:52:32 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:52:32 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 03:52:32 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:58:43 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:58:43 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:58:43 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:58:43 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 03:58:43 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:58:43 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 03:58:43 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:58:43 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:58:43 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 03:58:43 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 03:58:43 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 03:58:43 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:58:43 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 03:58:43 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 03:58:43 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 03:58:43 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 03:58:43 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 03:58:43 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 03:58:43 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 03:58:43 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:58:43 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 03:59:44 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:59:44 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:59:44 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 03:59:52 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 03:59:52 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 03:59:52 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 03:59:52 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 03:59:54 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 03:59:59 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 03:59:59 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 04:00:05 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 04:00:08 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 04:00:14 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 04:00:49 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 04:01:44 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 04:01:45 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 04:01:46 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 04:01:51 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 04:01:55 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 04:01:55 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 04:02:02 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 04:04:49 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:04:49 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:04:49 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:04:49 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 04:04:49 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 04:04:49 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 04:04:49 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 04:04:49 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 04:04:49 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 04:04:49 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 04:04:49 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 04:04:49 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 04:04:49 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 04:04:49 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 04:04:49 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 04:04:49 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 04:04:49 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 04:04:49 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 04:04:49 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 04:04:49 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 04:04:49 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 04:05:53 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:05:53 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:05:53 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:05:58 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 04:05:58 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 04:06:02 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 04:06:17 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 04:06:40 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 04:06:47 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 04:06:49 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 04:06:55 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 04:07:00 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 04:07:24 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 04:07:33 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 04:08:13 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 04:08:14 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 04:08:15 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 04:08:17 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 04:08:24 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 04:08:24 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 04:08:43 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 04:13:20 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:13:20 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:13:20 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:13:20 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 04:13:20 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 04:13:20 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=1.0E9, y=1.0}Point{x=1.0, y=0.0}Point{x=2.2, y=3.3}
+2020-09-01 04:13:20 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 04:13:20 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 04:13:20 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.64999999775E9
+2020-09-01 04:13:20 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 2.00000000031141E9
+2020-09-01 04:13:20 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 04:13:20 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 04:13:20 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 04:13:20 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 04:13:20 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 04:13:20 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 04:13:20 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 04:13:20 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 04:15:18 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:15:18 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:15:18 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:23:12 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:23:12 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:23:12 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:23:12 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 04:23:12 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 04:23:12 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 04:23:12 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 04:23:12 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 04:23:12 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 04:23:12 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 04:23:12 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 04:23:12 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 04:23:12 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 04:23:12 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 04:23:12 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 04:23:12 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 04:23:12 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 04:23:12 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 04:23:12 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 04:23:12 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 04:23:12 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 04:24:21 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:24:21 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:24:21 [main] DEBUG com.epam.hometask1.entity.Point- point was created
+2020-09-01 04:24:21 [main] INFO  com.epam.hometask1.util.IdCreator- id is 2
+2020-09-01 04:24:21 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 04:24:21 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was created from points:Point{x=56.02, y=496.565}Point{x=5663.6598, y=6893.777}Point{x=543.556, y=6549.5466}
+2020-09-01 04:24:21 [main] DEBUG com.epam.hometask1.repository.TriangleRepository- repository was created
+2020-09-01 04:24:21 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle was added to repository
+2020-09-01 04:24:21 [main] INFO  epam.hometask1.service.impl.TriangleService- square was calculated 1.5412034689597841E7
+2020-09-01 04:24:21 [main] INFO  epam.hometask1.service.impl.TriangleService- perimeter was calculated 19711.29904175087
+2020-09-01 04:24:21 [main] INFO  epam.hometask1.service.impl.TriangleService- triangle type is OBTUSE
+2020-09-01 04:24:21 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created
+2020-09-01 04:24:21 [main] INFO  com.epam.hometask1.creator.TriangleCreator- triangle parameters were calculated
+2020-09-01 04:24:21 [main] INFO  com.epam.hometask1.entity.Warehouse- Warehouse was created
+2020-09-01 04:24:21 [main] INFO  com.epam.hometask1.creator.TriangleCreator- parameters were added to warehouse
+2020-09-01 04:24:21 [main] DEBUG epam.hometask1.observer.impl.SquareObserver- SquareObserver was created
+2020-09-01 04:24:21 [main] DEBUG epam.hometask1.observer.impl.PerimeterObserver- PerimeterObserver was created
+2020-09-01 04:24:21 [main] DEBUG epam.hometask1.observer.impl.TriangleTypeObserver- TriangleTypeObserver was created
+2020-09-01 04:24:21 [main] INFO  com.epam.hometask1.util.IdCreator- id is 4
+2020-09-01 04:24:21 [main] DEBUG com.epam.hometask1.entity.Triangle- Triangle was created
+2020-09-01 04:24:21 [main] DEBUG com.epam.hometask1.entity.TriangleParameters- TriangleParameters object was created

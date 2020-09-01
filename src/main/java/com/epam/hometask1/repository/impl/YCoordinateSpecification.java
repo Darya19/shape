@@ -1,6 +1,6 @@
 package com.epam.hometask1.repository.impl;
 
-import com.epam.hometask1.entity.impl.Triangle;
+import com.epam.hometask1.entity.Triangle;
 import com.epam.hometask1.repository.Specification;
 
 public class YCoordinateSpecification implements Specification {

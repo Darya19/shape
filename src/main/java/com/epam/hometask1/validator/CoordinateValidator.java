@@ -8,10 +8,10 @@ public class CoordinateValidator {
     private final double MAX_VALUE = 100000;
 
     public boolean isTriangle(Point a, Point b, Point c) {
-        return (a.getX() - b.getX()) * (c.getY() - b.getY()) == (c.getX() - b.getX()) * (a.getY() - b.getY());
+        return !((a.getX() - b.getX()) / (a.getY() - b.getY()) == (a.getX() - c.getX()) / (a.getY() - c.getY()));
     }
 
-    public boolean validateCoordinate(Double coordinate) {
+    public boolean isCoordinateValid(Double coordinate) {
         return coordinate >= MIN_VALUE && coordinate <= MAX_VALUE;
     }
 }

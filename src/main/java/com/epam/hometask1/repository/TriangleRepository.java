@@ -1,8 +1,11 @@
 package com.epam.hometask1.repository;
 
 import com.epam.hometask1.comporator.SortingType;
-import com.epam.hometask1.entity.impl.Triangle;
+import com.epam.hometask1.entity.Triangle;
 import com.epam.hometask1.exception.ProjectException;
+import org.apache.logging.log4j.Level;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,8 +16,11 @@ public class TriangleRepository {
     private List<Triangle> triangles;
     private static TriangleRepository repository;
 
+    private static Logger logger = LogManager.getLogger();
+
     private TriangleRepository() {
         this.triangles = new ArrayList<>();
+        logger.log(Level.DEBUG, "repository was created");
     }
 
     public static TriangleRepository getRepository() {
@@ -49,5 +55,22 @@ public class TriangleRepository {
     public List<Triangle> query(Specification specification) {
         List<Triangle> sortedList = triangles.stream().filter(specification).collect(Collectors.toList());
         return sortedList;
+    }
+
+    public Triangle get(int index) {
+        return triangles.get(index);
+    }
+
+    public Triangle remove(int index) {
+        return triangles.remove(index);
+    }
+
+    public int size() {
+        return triangles.size();
+    }
+
+    public static void main(String[] args) {
+        for (int i = 0; i < TriangleRepository.getRepository().size(); i++) {
+            System.err.println(TriangleRepository.getRepository().get(i));}
     }
 }
